@@ -1,0 +1,16 @@
+{
+  "name": "tvmenu",
+  "version": "1.0.0",
+  "packageType": "app",
+  "appName": "Living",
+  "appPath": "index.html",
+  "description": "Two-app living room menu: Emby and YouTube",
+  "keys": [
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind"
+  ],
+  "author": "ralphyz"
+}
